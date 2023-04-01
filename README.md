@@ -1,2 +1,2 @@
 # Application-Web
-Application web it's create for nativefier and Jquery.
+Application web from Galery and LocalStorage from JS Vanilla
